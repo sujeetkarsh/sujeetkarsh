@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 -->[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.sujeetkarsh)
 
 
 I'm
